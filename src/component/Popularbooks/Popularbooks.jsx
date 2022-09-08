@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Popularbookcards,{Card1, Card2, Card3, Card4} from './Popularbookcards';
+import Popularbookscards,{Card1, Card2, Card3, Card4} from './Popularbookscards';
 
 function Popularbooks(){
     return(
@@ -8,10 +8,10 @@ function Popularbooks(){
         <h3>Popular Books</h3>
 
             <div class="row">
-            <Popularbookcards.Card1 />
-            <Popularbookcards.Card2 />
-            <Popularbookcards.Card3 />
-            <Popularbookcards.Card4 />
+            <Popularbookscards.Card1 />
+            <Popularbookscards.Card2 />
+            <Popularbookscards.Card3 />
+            <Popularbookscards.Card4 />
             </div>
        </section>
     );

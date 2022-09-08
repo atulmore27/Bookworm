@@ -10,9 +10,10 @@ function Banner(){
                     <button type="button" class="btn btn-dark btn-sm"> Explore now </button>
                 </div>
                 <div class="col-lg-6">
-                    <img class="title-image" src="images/most5.jpg" alt=""/>
-                    <img class="title-image" src="images/new4.jpg" alt=""/>
-                    <img class="title-image" src="images/new5.jpg" alt=""/>
+                    <img class="title-image" src="Images/English/InvestingInMutualFundsCover.jpg" alt=""/>
+                    <img class="title-image" src="Images/Marathi/Baapu ekbhaashit Chintankaavy.jpg" alt=""/>
+                    <img class="title-image" src="Images/Hindi/Har se ghar tak.jpg" alt=""/>
+                    <img class="title-image" src="Images/English/The Lodger.jpg" alt=""/>
                 </div>
             </div>
             </section>

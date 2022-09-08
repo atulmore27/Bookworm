@@ -7,8 +7,8 @@ function Card1(){
         <div class="book-column col-lg-3 col-md-6">
         <div class="card">
         <div class="card-body">
-            <img class="book-img" src="images/most1.jpg" alt=""/>
-            <h3>$49 / mo</h3>
+            <img class="book-img" src="Images/Marathi/aatank-1.jpg" alt=""/>
+            <h3>Rs.49 / mo</h3>
             <p>5 Matches Per Day</p>
             <p>10 Messages Per Day</p>
             <button type="button" class="btn btn-outline-dark">Buy</button>
@@ -24,8 +24,8 @@ function Card2(){
         <div class="book-column col-lg-3 col-md-6">
         <div class="card">
         <div class="card-body">
-            <img class="book-img" src="images/most1.jpg" alt=""/>
-            <h3>$49 / mo</h3>
+            <img class="book-img" src="Images/Hindi/Bhamati.jpg" alt=""/>
+            <h3>Rs.49 / mo</h3>
             <p>5 Matches Per Day</p>
             <p>10 Messages Per Day</p>
             <button type="button" class="btn btn-outline-dark">Buy</button>
@@ -41,8 +41,8 @@ function Card3(){
         <div class="book-column col-lg-3 col-md-6">
         <div class="card">
         <div class="card-body">
-            <img class="book-img" src="images/most1.jpg" alt=""/>
-            <h3>$49 / mo</h3>
+            <img class="book-img" src="Images/Kokani/Karvar cover.jpg" alt=""/>
+            <h3>Rs.49 / mo</h3>
             <p>5 Matches Per Day</p>
             <p>10 Messages Per Day</p>
             <button type="button" class="btn btn-outline-dark">Buy</button>
@@ -58,8 +58,8 @@ function Card4(){
         <div class="book-column col-lg-3 col-md-6">
         <div class="card">
         <div class="card-body">
-            <img class="book-img" src="images/most1.jpg" alt=""/>
-            <h3>$49 / mo</h3>
+            <img class="book-img" src="Images/English/TheStoryOfShivajiCover.jpg" alt=""/>
+            <h3>Rs.49 / mo</h3>
             <p>5 Matches Per Day</p>
             <p>10 Messages Per Day</p>
             <button type="button" class="btn btn-outline-dark">Buy</button>

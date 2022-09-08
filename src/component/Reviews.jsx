@@ -10,13 +10,18 @@ function Reviews(){
 
             <div class="carousel-item active">
                 <h2>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h2>
-                <img class="testimonial-img" src="" alt="dog-profile"/>
+                <img class="testimonial-img" src="Images/JK.jpg" alt=""/>
                 <em>JK Rowling, New York</em>
             </div>
             <div class="carousel-item">
                 <h2> It has survived not only five centuries, but also the leap into electronic.</h2>
-                <img class="testimonial-img" src="" alt="lady-profile"/>
+                <img class="testimonial-img" src="Images/ST.jpg" alt=""/>
                 <em>Shashi Tharoor, India</em>
+            </div>
+            <div class="carousel-item">
+                <h2> Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</h2>
+                <img class="testimonial-img" src="Images/CB.jpg" alt=""/>
+                <em>Chetan Bhagat, India</em>
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#testimonial-carousel" data-bs-slide="prev">

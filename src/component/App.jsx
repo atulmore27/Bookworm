@@ -7,6 +7,7 @@ import Banner from "./Banner";
 import Popularbooks from "./Popularbooks/Popularbooks";
 import Footer from "./Footer";
 import Reviews from "./Reviews";
+import Newarrivals from "./Newarrivals/Newarrivals";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Menu />
       <Banner />
       <Popularbooks /><hr/>
+      <Newarrivals/>
       <Reviews />
       <Footer/>
 

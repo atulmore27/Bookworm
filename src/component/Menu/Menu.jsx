@@ -7,6 +7,7 @@ import Book from "./Book";
 import BestSellers from "./BestSellers";
 import NewArrivals from "./NewArrivals";
 import AwardWinner from "./AwardWinner";
+import Feedback from "./Feedback";
 import "./Menu.css"
 
 
@@ -21,6 +22,7 @@ function Menu() {
         <BestSellers />
         <NewArrivals />
         <AwardWinner />
+        <Feedback/>
       </div>
     </section>
   );
